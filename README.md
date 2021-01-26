@@ -32,7 +32,7 @@ Tareas: Desarrollo y mantenimiento de la aplicación web Banca Electrónica de E
 
 <img src="/assets/img/thomsonreuters.png" width="64" height="64">  
 **Thomson Reuters — Java Developer (Intern)**  
-_ENERO 2015 - JULIO 2016 | FULL-TIME (4HS.)_
+_ENERO 2015 - JULIO 2016 | PART-TIME (4HS.)_
 
 Tareas: Mantenimiento de aplicación web para compra de libros y revistas digitales legales/jurídicas.
 Además, participé en otro proyecto en conjunto con un equipo que se encontraba en México el cual requería la conversión de documentos en formato Word a formato XML. Se trabajó sobre documentos legales mexicanos.
