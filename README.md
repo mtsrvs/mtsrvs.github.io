@@ -1,3 +1,5 @@
+# CV
+
 ### OBJETIVO LABORAL
 
 Aplicar los conocimientos adquiridos durante mis estudios como también poner en práctica la experiencia obtenida en trabajos previos en mi rol de desarrollador. Dispuesto a trabajar en equipo e interactúas con otros de distintas áreas dentro de la empresa. Predispuesto a aprender nuevas herramientas como lenguajes.
@@ -6,7 +8,7 @@ Aplicar los conocimientos adquiridos durante mis estudios como también poner en
 ### EDUCACIÓN
 
 **Instituto Tecnológico de Buenos Aires (ITBA)**  
-_MARZO 2009 - PRESENTE_
+_MARZO 2009 - PRESENTE_  
 Área de estudio: Ingeniería Informática  
 Título intermedio obtenido: Analista en Tecnología Informática  
 
