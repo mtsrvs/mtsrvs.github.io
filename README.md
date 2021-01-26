@@ -54,6 +54,6 @@ Además, participé en otro proyecto en conjunto con un equipo que se encontraba
 
 ### HOBBIES
 
-- <img src="/assets/img/hobbies/running.png" width="50%" height="50%"> Running
-- <img src="/assets/img/hobbies/crossfit.png" width="50%" height="50%"> Crossfit
-- <img src="/assets/img/hobbies/gaming.png" width="50%" height="50%"> Gaming
+- <img src="/assets/img/hobbies/running.png" width="32" height="32"> Running
+- <img src="/assets/img/hobbies/crossfit.png" width="32" height="32"> Crossfit
+- <img src="/assets/img/hobbies/gaming.png" width="32" height="32"> Gaming
