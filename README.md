@@ -24,16 +24,19 @@ Título obtenido: Bachiller con capacitación laboral en computación
 
 ### EXPERIENCIA LABORAL
 
+<img src="/assets/img/Red_link_logo.png" width="32" height="32">
 **Red Link — Java Full stack Developer (Ssr)**  
 _OCTUBRE 2019 - PRESENTE | FULL-TIME (8HS.)_
 
 Tareas: Se creó un equipo para llevar a cabo el desarrollo de una app mobile y sitio web para cobro en comercios. Participé en este equipo desde su creación siendo el primer desarrollador. Tuve participación en reuniones con analistas funcionales, arquitectos, QA y DBA. Desarrollé el servicio REST y  sitio en Angular como también tuve la tarea de crear la BBDD en Oracle.
 
+<img src="/assets/img/Red_link_logo.png" width="32" height="32">
 **Red Link — Java Full stack Developer (Jr)**  
 _ENERO 2017 - OCTUBRE 2019 | FULL-TIME (8HS.)_
 
 Tareas: Desarrollo y mantenimiento de la aplicación web Banca Electrónica de Empresas y su respectivo Back Office. Armado de scripts para diferentes ambientes (test, producción). Interacción con otros equipos de trabajo en caso de que la tarea a realizar lo requiera.
 
+<img src="/assets/img/thomsonreuters.png" width="32" height="32">
 **Thomson Reuters — Java Developer (Intern)**  
 _ENERO 2015 - JULIO 2016 | FULL-TIME (4HS.)_
 
