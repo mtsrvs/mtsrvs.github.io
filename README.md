@@ -1,12 +1,55 @@
-## Welcome to GitHub Pages
+## OBJETIVO LABORAL
 
-You can use the [editor on GitHub](https://github.com/mtsrvs/mtsrvs.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Aplicar los conocimientos adquiridos durante mis estudios como también poner en práctica la experiencia obtenida en trabajos previos en mi rol de desarrollador. Dispuesto a trabajar en equipo e interactúas con otros de distintas áreas dentro de la empresa. Predispuesto a aprender nuevas herramientas como lenguajes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## EDUCACIÓN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Instituto Tecnológico de Buenos Aires (ITBA)**
+_MARZO 2009 - PRESENTE_
+Área de estudio: Ingeniería Informática
+Título intermedio obtenido: Analista en Tecnología Informática
+
+**Inmaculada Concepción A-183**
+_MARZO 2004 - DICIEMBRE 2008_
+Título obtenido: Bachiller con capacitación laboral en computación
+
+## EXPERIENCIA LABORAL
+
+**Red Link — Java Full stack Developer (Ssr)**
+_OCTUBRE 2019 - PRESENTE | FULL-TIME (8HS.)_
+
+Tareas: Se creó un equipo para llevar a cabo el desarrollo de una app mobile y sitio web para cobro en comercios. Participé en este equipo desde su creación siendo el primer desarrollador. Tuve participación en reuniones con analistas funcionales, arquitectos, QA y DBA. Desarrollé el servicio REST y  sitio en Angular como también tuve la tarea de crear la BBDD en Oracle.
+
+**Red Link — Java Full stack Developer (Jr)**
+_ENERO 2017 - OCTUBRE 2019 | FULL-TIME (8HS.)_
+
+Tareas: Desarrollo y mantenimiento de la aplicación web Banca Electrónica de Empresas y su respectivo Back Office. Armado de scripts para diferentes ambientes (test, producción). Interacción con otros equipos de trabajo en caso de que la tarea a realizar lo requiera.
+
+**Thomson Reuters — Java Developer (Intern)**
+_ENERO 2015 - JULIO 2016 | FULL-TIME (4HS.)_
+
+Tareas: Mantenimiento de aplicación web para compra de libros y revistas digitales legales/jurídicas.
+Además, participé en otro proyecto en conjunto con un equipo que se encontraba en México el cual requería la conversión de documentos en formato Word a formato XML. Se trabajó sobre documentos legales mexicanos.
+
+## CONOCIMIENTOS
+
+- Manejo de Windows y Linux
+- Java,  Angular, XML, Oracle, Spring, Hibernate, Maven, SVN, Git, Gitlab
+- Word, Excel, Power Point
+- Agile, Scrum.
+
+## IDIOMAS
+
+- Inglés. Nivel avanzado. 
+	- First Certificate in English (FCE) 2010.
+- Español nativo.
+
+## HOBBIES
+
+- Running
+- Crossfit
+- Gaming
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +68,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtsrvs/mtsrvs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
