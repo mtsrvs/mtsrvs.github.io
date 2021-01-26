@@ -41,34 +41,19 @@ Además, participé en otro proyecto en conjunto con un equipo que se encontraba
 - Word, Excel, Power Point
 - Agile, Scrum.
 
+### CURSOS
+ - Armado y reparación de PC en Centro Cultural Rector Ricardo Rojas. Año: 2006
+ - Diseño web en Centro Tecnológico de Entrenamiento y Capacitación (CTEC). Año: 2007
+ - [Udemy cursos](./udemy-cursos.html)
+
 ### IDIOMAS
 
 - Inglés. Nivel avanzado. 
-	- First Certificate in English (FCE) 2010.
-- Español nativo.
+	- First Certificate in English (FCE). Año: 2010.
+- Español. Nativo.
 
 ### HOBBIES
 
-- ![Image](/assets/img/hobbies/running.png) Running
-- ![Image](/assets/img/hobbies/crossfit.png) Crossfit
-- ![Image](/assets/img/hobbies/gaming.png) Gaming
-
-[Link to another page](./udemy-cursos.html).
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- ![Image](/assets/img/hobbies/running.png =50x50) Running
+- ![Image](/assets/img/hobbies/crossfit.png =50x50) Crossfit
+- ![Image](/assets/img/hobbies/gaming.png =50x50) Gaming
