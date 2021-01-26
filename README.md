@@ -22,7 +22,7 @@ Título obtenido: Bachiller con capacitación laboral en computación
 **Red Link — Java Full stack Developer (Ssr)**  
 _OCTUBRE 2019 - PRESENTE | FULL-TIME (8HS.)_
 
-Tareas: Se creó un equipo para llevar a cabo el desarrollo de una app mobile y sitio web para cobro en comercios. Participé en este equipo desde su creación siendo el primer desarrollador. Tuve participación en reuniones con analistas funcionales, arquitectos, QA y DBA. Desarrollé el servicio REST y  sitio en Angular como también tuve la tarea de crear la BBDD en Oracle.
+Tareas: Se creó un equipo para llevar a cabo el desarrollo de una app mobile y sitio web para cobro en comercios. Participé en este equipo desde su creación siendo el primer desarrollador. Estuve presente en reuniones con analistas funcionales, arquitectos, QA y DBA. Desarrollé el servicio REST y  sitio en Angular como también tuve la tarea de crear la BBDD en Oracle. Se utilizó la metodología Scrum para trabajar.
 
 <img src="/assets/img/Red_link_logo.png" width="64" height="64">  
 **Red Link — Java Full stack Developer (Jr)**  
@@ -42,7 +42,6 @@ Además, participé en otro proyecto en conjunto con un equipo que se encontraba
 - Manejo de Windows y Linux
 - Java,  Angular, XML, Oracle, Spring, Hibernate, Maven, SVN, Git, Gitlab
 - Word, Excel, Power Point
-- Agile, Scrum.
 
 ### CURSOS
  - Armado y reparación de PC en Centro Cultural Rector Ricardo Rojas. Año: 2006
