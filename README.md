@@ -2,7 +2,7 @@
 
 ### OBJETIVO LABORAL
 
-Aplicar los conocimientos adquiridos durante mis estudios como también poner en práctica la experiencia obtenida en trabajos previos en mi rol de desarrollador. Dispuesto a trabajar en equipo e interactúas con otros de distintas áreas dentro de la empresa. Predispuesto a aprender nuevas herramientas como lenguajes.
+Aplicar los conocimientos adquiridos durante mis estudios como también poner en práctica la experiencia obtenida en trabajos previos en mi rol de desarrollador. Dispuesto a trabajar en equipo e interactúas con otros de distintas áreas dentro de la empresa. Predispuesto a aprender nuevas herramientas y lenguajes.
 
 
 ### EDUCACIÓN
