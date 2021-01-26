@@ -49,9 +49,11 @@ Además, participé en otro proyecto en conjunto con un equipo que se encontraba
 
 ### HOBBIES
 
-- Running
-- Crossfit
-- Gaming
+- ![Image](/assets/img/hobbies/running.png) Running
+- ![Image](/assets/img/hobbies/crossfit.png) Crossfit
+- ![Image](/assets/img/hobbies/gaming.png) Gaming
+
+[Link to another page](./udemy-cursos.html).
 
 ```markdown
 Syntax highlighted code block
