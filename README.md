@@ -40,7 +40,7 @@ Además, participé en otro proyecto en conjunto con un equipo que se encontraba
 ### CONOCIMIENTOS
 
 - Manejo de Windows y Linux
-- Java,  Angular, XML, Oracle, Spring, Hibernate, Maven, SVN, Git, Gitlab
+- Java,  Angular, XML, Oracle, Spring, Hibernate, Maven, SVN, Git, Gitlab, SoapUI, Postman
 - Word, Excel, Power Point
 
 ### CURSOS
