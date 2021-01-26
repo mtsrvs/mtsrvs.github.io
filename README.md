@@ -1,5 +1,11 @@
 # CV
 
+| Edad: 30 años | Edad: 30 años |
+|---------------|---------------|
+| Edad: 30 años | Edad: 30 años |
+| Edad: 30 años | Edad: 30 años |
+| Edad: 30 años | Edad: 30 años |
+
 ### OBJETIVO LABORAL
 
 Aplicar los conocimientos adquiridos durante mis estudios como también poner en práctica la experiencia obtenida en trabajos previos en mi rol de desarrollador. Dispuesto a trabajar en equipo e interactúas con otros de distintas áreas dentro de la empresa. Predispuesto a aprender nuevas herramientas como lenguajes.
@@ -44,7 +50,7 @@ Además, participé en otro proyecto en conjunto con un equipo que se encontraba
 ### CURSOS
  - Armado y reparación de PC en Centro Cultural Rector Ricardo Rojas. Año: 2006
  - Diseño web en Centro Tecnológico de Entrenamiento y Capacitación (CTEC). Año: 2007
- - [Udemy cursos](./udemy-cursos.html)
+ - [Udemy - cursos realizados](./udemy-cursos.html)
 
 ### IDIOMAS
 
