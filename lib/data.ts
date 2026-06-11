@@ -1,7 +1,7 @@
 export const data = {
   name: "Leandro Matías Rivas",
   title: "Software Engineer",
-//  tagline: "I build clean, scalable systems and obsess over developer experience.",
+  tagline: "",
 //  tagline: "I build clean, scalable systems and obsess over developer experience.",
   location: "Buenos Aires, Argentina",
   email: "rivasleandromatias@gmail.com",
