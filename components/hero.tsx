@@ -5,7 +5,7 @@ import { data } from "@/lib/data";
 export function Hero() {
   return (
     <section className="pt-16 pb-2 fade-in">
-      <div className="flex items-stretch gap-6 mb-4">
+      <div className="flex flex-col sm:flex-row sm:items-stretch gap-4 sm:gap-6 mb-4">
         <Avatar />
         <div className="flex flex-col justify-between">
           <div>
@@ -13,7 +13,7 @@ export function Hero() {
               dark:text-zinc-100 text-zinc-800">
               {data.name}
             </h1>
-            <p className="text-base dark:text-zinc-400 text-zinc-500">{data.title}</p>
+            <p className="text-base dark:text-zinc-400 text-zinc-500 mb-3">{data.title}</p>
           </div>
 
           <div className="flex flex-col gap-1.5 text-sm">

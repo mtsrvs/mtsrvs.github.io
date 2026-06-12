@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className="min-h-screen transition-colors duration-200 dark:bg-zinc-950 bg-white">
       <Nav />
-      <main className="max-w-3xl mx-auto px-6 pt-11">
+      <main className="max-w-3xl mx-auto px-6 pt-6">
         <Hero />
         <Divider />
         <div id="objetivo laboral"><About /></div>
