@@ -10,7 +10,7 @@ export const data = {
   // Set to a path or URL to use a real photo, e.g. "/photo.jpg"
   // Leave as null to show the initials avatar
 //  photo: null as string | null,
-    photo: "/matias-foto.jpg",
+    photo: "/matias-foto-2.jpeg",
 
 //  about: `Full-stack engineer with 5+ years shipping production software. I care about correctness, maintainability, and the humans who will read my code six months from now. Currently focused on distributed systems and backend infrastructure, but comfortable anywhere in the stack.`,
   about: `Aplicar los conocimientos adquiridos durante mis estudios como también poner en práctica la experiencia obtenida en trabajos previos en mi rol de desarrollador. Dispuesto a trabajar en equipo e interactúas con otros de distintas áreas dentro de la empresa. Predispuesto a aprender nuevas herramientas y lenguajes.`,
@@ -18,7 +18,7 @@ export const data = {
   skills: {
     Languages:     ["TypeScript", "Python", "Go", "Rust", "SQL"],
 //    Frontend:      ["React", "Next.js", "Tailwind CSS", "Vite"],
-    Backend:       ["Node.js", "FastAPI", "PostgreSQL", "Redis", "Kafka"],
+    Backend:       ["Docker", "PostgreSQL", "Postman"],
 //    "Infra / Cloud": ["AWS", "Docker", "Kubernetes", "Terraform", "GitHub Actions"],
     Practices:     ["TDD", "Domain-Driven Design", "REST", "gRPC", "OpenAPI"],
     Idiomas:     ["Español", "Inglés"],
